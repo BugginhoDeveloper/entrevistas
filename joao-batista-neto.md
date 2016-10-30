@@ -52,7 +52,9 @@ Assim como o Stack Overflow prioriza performance, também haverá cliente que pr
 
 **João:** Eu desenvolvo em tantas linguagens, que fica até difícil escolher; no meu dia a dia utilizo Java, PHP, C#, Ruby e Python; também desenvolvo em Javascript e em outras tecnologias como C, C++, Vala, etc. Gosto muito de Java, mas atualmente, ao meu ver, Vala é uma das linguagens mais elegantes que conheço e acho que seria interessante trabalhar com ela.
 
-> **Importante:** Essa entrevista foi gentilmente cedida por João Batista Neto para veiculação da página "Bugginho Developer". Caso queira replica-la, não esqueça de pedir autorização ao mesmo para tal.
+----------
+
+> **Importante:** Essa entrevista foi gentilmente cedida por João Batista Neto para veiculação na página "Bugginho Developer". Caso queira replica-la, não esqueça de pedir autorização ao mesmo para tal.
 
 ----------
 
