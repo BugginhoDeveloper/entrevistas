@@ -45,7 +45,7 @@ Pra quem quer começar do 0, como eu comecei recentemente, a minha maior dica é
 **Felipe:** Acho que no mundo acadêmico as mudanças são um pouco mais lentas. Mas pelo menos não faltam cursos pra quem quer aprender Python.
 
 ----------
-**Bugginho: De uma lado as empresas dizem que está chovendo vagas de emprego para desenvolvedores de software, do outro a comunidade afirma que as empresas estão exigindo cada vez mais e pagando cada vez menos. Qual a sua opinião sobre essa realidade?**
+**Bugginho: De um lado as empresas dizem que está chovendo vagas de emprego para desenvolvedores de software, do outro a comunidade afirma que as empresas estão exigindo cada vez mais e pagando cada vez menos. Qual a sua opinião sobre essa realidade?**
 
 **Felipe:** O mercado é muito grande e dentro dele existem vários segmentos com características diferentes. As empresas novas não tem como pagar muito mas podem oferecer flexibilidade por exemplo. Existem as empresas que não tem preocupação com qualidade e não vão pagar bem nunca. Existem empresas onde é difícil a conta de "quanto vale" Vs "quanto as pessoas querem" e geralmente aqui prevalece o quanto a empresa quer gastar. Fora essa análise superficial é complicado falar mais porque tudo é especulação. A última proposta concreta que recebi era financeiramente ruim. Não era péssima mas era ruim, na minha visão, e isso é o último dado concreto que posso passar sem achismos. Por outro lado, já vi vagas que anunciavam pagar valores dentro do esperado e por isso que é tão difícil opinar.
 
