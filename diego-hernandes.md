@@ -21,7 +21,7 @@ Conheci o Laravel (que na época estava na versao 3) no meio dessa transição. 
 
 **Diego:** Conheço os fundamentos de C e C++, principalmente para server programming. Antes de programador, eu fui sysadmin e trabalhei um bom tempo administrando redes.
 
-A paixão pelo open source me expôs a várias tecnologias, tive aventuras com Ruby (on Rails) e vǻrias outras linguagens de programação.
+A paixão pelo open source me expôs a várias tecnologias, tive aventuras com Ruby (on Rails) e várias outras linguagens de programação.
 
 PHP é minha linguagem favorita por motivos bem óbvios. É uma linguagem que nasceu na web, de baixa curva de aprendizado e, o mais importante, é que não existe praticamente nada que não possa ser feito em PHP.
 
