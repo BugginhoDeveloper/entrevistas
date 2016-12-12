@@ -1,5 +1,5 @@
 
-Entrevista com Fabio Akita, co-fundador e CTO da Codeminer 42, co-organizador da Rubyconf Brasil e realizador de quase 100 palestras pelo Brasil e pelo mundo.
+Entrevista com Fabio Akita, co-fundador e CTO da Codeminer 42, co-organizador da Rubyconf Brasil e realizador de quase 200 palestras pelo Brasil e pelo mundo.
 ===================
 
 
