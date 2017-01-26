@@ -62,7 +62,7 @@ E o Rails foi o único que oferecia esse pacote: a tecnologia, a estética e o e
 
 Tendo passado por todos esses eventos desde o fim dos anos 80, foi irresistível não embarcar nessa nova era também. E foi assim que a partir de 2006 eu entrei de cabeça no mundo Rails.
 
-Rails foi feito para criar produtos similares so Basecamp. Produtos Web 2.0. Qualquer produto Web com a arquitetura do Basecamp é adequado para ser feito de forma elegante com Rails. Este site tem uma boa lista de exemplos:
+Rails foi feito para criar produtos similares ao Basecamp. Produtos Web 2.0. Qualquer produto Web com a arquitetura do Basecamp é adequado para ser feito de forma elegante com Rails. Este site tem uma boa lista de exemplos:
 
 https://skillcrush.com/2015/02/02/37-rails-sites/
 
