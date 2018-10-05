@@ -45,7 +45,7 @@ Um livro que tive a sorte de ler na minha época de faculdade mudou minha visão
 
 Os computadores de hoje são os mesmos se comparados à época de Alan Turing na 2a Guerra Mundial. Só são bilhões de vezes mais rápidos, mas a forma de programar é exatamente o mesmo. A arquitetura de computadores ainda é Von Neumann (anos 40). As linguagens de computador ainda são ditas Turing complete (anos 40).
 
-A tal “inovação” das linguagens ditas “funcionais”? Pelo amor, isso é velho, é Lamba Calculus de Alonzo Church, anos 30! Nada de funcional hoje foi inventado hoje, veio sendo inventado e evoluído nos últimos 80 anos!
+A tal “inovação” das linguagens ditas “funcionais”? Pelo amor, isso é velho, é Lambda Calculus de Alonzo Church, anos 30! Nada de funcional hoje foi inventado hoje, veio sendo inventado e evoluído nos últimos 80 anos!
 
 A realização chocante para a maioria das pessoas: a percepção é que estamos tão evoluídos que se uma pessoa dos anos 40 nos viesse hoje acharia que é ficção científica. Mas eu diria que se Turing, Church, Von Neumann, McCarthy e outros grandes matemáticos dos anos 40 ou 50 nos visse hoje, não ficariam tão impressionados assim, especialmente se notarem que nós - esse povo do século XXI - ainda está cometendo os mesmos erros de mais de 60 anos atrás.
 
